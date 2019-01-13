@@ -50,7 +50,7 @@ In ``NDlib`` are implemented the following **Epidemic** models:
 
 
 ----------------
-Opinion Dinamycs
+Opinion Dynamics
 ----------------
 
 A different field related with modelling social behaviour is that of opinion dynamics.
